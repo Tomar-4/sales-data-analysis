@@ -51,6 +51,5 @@ It explores a real-world sales dataset to uncover patterns, clean data, and visu
 
 ## 🧑‍💻 Author
 PRASHANT SINGH 
-**Your Name**  
 Aspiring Data Analyst | Python & Excel Enthusiast  
 [LinkedIn](https://www.linkedin.com/in/prashant-singh-0911aa194/) | [GitHub](https://github.com/Tomar-4)
